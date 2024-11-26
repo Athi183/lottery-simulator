@@ -41,12 +41,6 @@ pip install matplotlib
 - The y-axis shows the account balance.
 - Separate graphs are generated for each time period (week, month, year).
 
-## **Usage**
-Run the script to simulate the betting game and view the results:
-```bash
-python betting_game.py
-```
-
 ## **Insights**
 - This script demonstrates probability in action.
 - It highlights the financial risks of gambling over time.
